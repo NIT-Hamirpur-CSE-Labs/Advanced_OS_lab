@@ -18,6 +18,6 @@ Advanced OS Lab - 7th semester
 ``gcc Lab_2_client.c -o client``
 
 * Running -<br>
-  Run simultaneously in 2 tabs of 2 different computers (update IP)<br>
+  Run simultaneously in 2 tabs of a same computers (with IP 127.0.0.1) OR of 2 different computers (update IP)<br>
 ``./server``<br>
 ``./client``
