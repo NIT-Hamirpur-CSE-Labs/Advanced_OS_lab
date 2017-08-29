@@ -21,3 +21,6 @@ Advanced OS Lab - 7th semester
   Run simultaneously in 2 tabs of a same computers (with IP 127.0.0.1) OR of 2 different computers (update IP)<br>
 ``./server``<br>
 ``./client``
+
+## Lab 3 -
+1. Study about Common Object Request Broker Architecture (CORBA).
