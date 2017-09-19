@@ -24,3 +24,7 @@ Advanced OS Lab - 7th semester
 
 ## Lab 3 -
 1. Study about Common Object Request Broker Architecture (CORBA).
+
+## Lab 4 - 
+1. Write a program to simulate the functioning of lamports logical clock and lamports vector clock.
+2. Write a program to implement Christian's Algorithm and Berkeley Algorithm.
