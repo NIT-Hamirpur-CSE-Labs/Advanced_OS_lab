@@ -28,3 +28,8 @@ Advanced OS Lab - 7th semester
 ## Lab 4 - 
 1. Write a program to simulate the functioning of lamports logical clock and lamports vector clock.
 2. Write a program to implement Christian's Algorithm and Berkeley Algorithm.
+
+* Running -
+1. Lamport logical clock -<br>
+``gcc lamport_logical_clock.c``<br>
+``./a.out < lamport_logical_clock_input``
