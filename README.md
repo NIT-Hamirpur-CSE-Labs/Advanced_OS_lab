@@ -33,3 +33,11 @@ Advanced OS Lab - 7th semester
 1. Lamport logical clock -<br>
 ``gcc lamport_logical_clock.c``<br>
 ``./a.out < lamport_logical_clock_input``
+
+## Lab 5 -
+1. Write a program to implement Christian Algorithm.
+2. Write a program to implement Vector Clock.
+
+* Running -
+``g++ program.cpp``<br>
+``./a.out``
