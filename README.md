@@ -38,6 +38,6 @@ Advanced OS Lab - 7th semester
 1. Write a program to implement Christian Algorithm.
 2. Write a program to implement Vector Clock.
 
-* Running -
+* Running -<br>
 ``g++ program.cpp``<br>
 ``./a.out``
